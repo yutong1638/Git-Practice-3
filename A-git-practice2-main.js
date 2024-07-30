@@ -11,3 +11,5 @@ const light={
 console.log(light.showColor);
 
 light.showColor= "green";
+console.log(light.showColor);
+console.log("you may pass!");
