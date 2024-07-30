@@ -12,3 +12,6 @@ const light={
 console.log(light.showColor);
 
 light.showColor= "green";
+
+
+//async和await練習
