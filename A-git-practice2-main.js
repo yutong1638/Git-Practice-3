@@ -9,3 +9,5 @@ const light={
 }
 
 console.log(light.showColor);
+
+light.showColor= "green";
