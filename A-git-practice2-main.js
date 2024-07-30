@@ -28,3 +28,5 @@ async function asyncCall(){
     const result = await funcA();
     console.log(result);
 }
+
+asyncCall();
