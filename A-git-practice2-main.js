@@ -1,3 +1,4 @@
+//get和set練習
 const light={
     color:"red",
     get showColor(){
