@@ -15,3 +15,10 @@ light.showColor= "green";
 
 
 //async和await練習
+const funcA =(){
+    return new Promise((resolve,reject)=>{
+        window.setTimeout(()=>{
+            resolve("resolve A");
+        },(Math.random()+1)*1000);
+    });
+}
