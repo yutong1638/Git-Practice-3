@@ -22,3 +22,9 @@ const funcA =(){
         },(Math.random()+1)*1000);
     });
 }
+
+async function asyncCall(){
+    console.log("calling");
+    const result = await funcA();
+    console.log(result);
+}
