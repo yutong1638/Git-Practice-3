@@ -15,7 +15,7 @@ light.showColor= "green";
 
 
 //async和await練習
-const funcA =(){
+const funcA = function(){
     return new Promise((resolve,reject)=>{
         window.setTimeout(()=>{
             resolve("resolve A");
