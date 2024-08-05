@@ -1,2 +1,2 @@
-# Git-Practice-2
-配合書第5-20頁的綜合演練，進行練習(rebase、amend、cherry-pick)
+# Git-Practice-3
+配合書第7-2頁，進行練習(mirror)
